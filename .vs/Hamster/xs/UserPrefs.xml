@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{2209FC40-2EC0-4E56-BC02-6D66A3B37271}|Default">
+  <MonoDevelop.Ide.ItemProperties.Hamster PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hamster/Program.cs">
+    <Files>
+      <File FileName="Hamster/Program.cs" Line="13" Column="34" />
+      <File FileName="Hamster/Animal.cs" Line="30" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hamster" expanded="True">
+            <Node name="Hamster" expanded="True">
+              <Node name="Animal.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

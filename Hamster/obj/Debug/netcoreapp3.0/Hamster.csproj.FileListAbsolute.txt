@@ -1,0 +1,11 @@
+/Users/kseniagustsenko/Desktop/Hamster/Hamster/bin/Debug/netcoreapp3.0/Hamster
+/Users/kseniagustsenko/Desktop/Hamster/Hamster/bin/Debug/netcoreapp3.0/Hamster.deps.json
+/Users/kseniagustsenko/Desktop/Hamster/Hamster/bin/Debug/netcoreapp3.0/Hamster.runtimeconfig.json
+/Users/kseniagustsenko/Desktop/Hamster/Hamster/bin/Debug/netcoreapp3.0/Hamster.runtimeconfig.dev.json
+/Users/kseniagustsenko/Desktop/Hamster/Hamster/bin/Debug/netcoreapp3.0/Hamster.dll
+/Users/kseniagustsenko/Desktop/Hamster/Hamster/bin/Debug/netcoreapp3.0/Hamster.pdb
+/Users/kseniagustsenko/Desktop/Hamster/Hamster/obj/Debug/netcoreapp3.0/Hamster.csprojAssemblyReference.cache
+/Users/kseniagustsenko/Desktop/Hamster/Hamster/obj/Debug/netcoreapp3.0/Hamster.AssemblyInfoInputs.cache
+/Users/kseniagustsenko/Desktop/Hamster/Hamster/obj/Debug/netcoreapp3.0/Hamster.AssemblyInfo.cs
+/Users/kseniagustsenko/Desktop/Hamster/Hamster/obj/Debug/netcoreapp3.0/Hamster.dll
+/Users/kseniagustsenko/Desktop/Hamster/Hamster/obj/Debug/netcoreapp3.0/Hamster.pdb
